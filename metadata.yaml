@@ -1,0 +1,31 @@
+_repo: Tortoises_22475
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 22475-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Lawrence, D. H. (David Herbert)
+    aliases:
+    - Davison, Lawrence H. (Lawrence Herbert)
+    - Lawrence, D.H.
+    - Lawrence, David Herbert
+    birthdate: 1885
+    deathdate: 1930
+    gutenberg_agent_id: '123'
+    url: http://www.gutenberg.org/2009/agents/123
+    wikipedia: http://en.wikipedia.org/wiki/D._H._Lawrence
+description: ''
+gutenberg_issued: '2007-08-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22475'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry'
+- !lcc 'PR'
+title: Tortoises
+url: http://www.gutenberg.org/ebooks/22475
